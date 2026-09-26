@@ -1,4 +1,4 @@
-# Ten Minute Brain
+# MindSpace: Rewire your brain in 10 minutes 
 
 A free, six-week course on metacognition and neuroplasticity that takes about ten minutes a day.
 
