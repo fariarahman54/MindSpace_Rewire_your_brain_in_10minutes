@@ -4,7 +4,8 @@ A free, six-week course on metacognition and neuroplasticity that takes about te
 
 I wanted to understand how learning actually works: how to think about my own thinking, and how the brain physically changes when we practise something. Most of what I found was either long books or dense research papers, and I'm busy. So I read through the research, turned it into one short idea a day, and built a tracker I could tick off every day. Each day teaches me something new and gives me something small to try.
 
-**Try it here:** https://your-username.github.io/ten-minute-brain/
+**Try it here:** 
+(https://fariarahman54.github.io/MindSpace_Rewire_your_brain_in_10minutes/)
 
 ## What a day looks like
 
